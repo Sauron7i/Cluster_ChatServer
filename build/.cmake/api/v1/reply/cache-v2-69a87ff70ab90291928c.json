@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/ubuntu/projects/ChatServer/build"
+			"value" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -595,7 +595,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/ubuntu/projects/ChatServer"
+			"value" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1131,7 +1131,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/ubuntu/projects/ChatServer/build"
+			"value" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build"
 		},
 		{
 			"name" : "ChatServer_SOURCE_DIR",
@@ -1143,7 +1143,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/ubuntu/projects/ChatServer"
+			"value" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer"
 		}
 	],
 	"kind" : "cache",

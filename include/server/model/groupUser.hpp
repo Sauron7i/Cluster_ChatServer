@@ -15,5 +15,4 @@ private:
     string role;
 };
 
-
 #endif

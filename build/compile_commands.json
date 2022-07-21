@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatServer.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/chatServer.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/chatServer.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatService.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/chatService.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/chatService.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/main.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/main.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/db/db.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/dbConnectionPool.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/db/dbConnectionPool.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/db/dbConnectionPool.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendModel.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/friendModel.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/friendModel.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupModel.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/groupModel.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/groupModel.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offlineMessageModel.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/offlineMessageModel.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/offlineMessageModel.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/userModel.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/userModel.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/model/userModel.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/redis/redis.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/build/src/client",
+  "command": "/usr/bin/g++   -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis -I/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/client/main.cpp",
+  "file": "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/src/client/main.cpp"
+}
+]

@@ -22,13 +22,11 @@ ChatServer::ChatServer(EventLoop* loop,
     _server.setThreadNum(4);
 }
 
-
 // 启动服务
 void ChatServer::start()
 {
     _server.start();
 }
-
 
 // 上报链接相关信息的回调函数
 void ChatServer::onConnection(const TcpConnectionPtr& conn)

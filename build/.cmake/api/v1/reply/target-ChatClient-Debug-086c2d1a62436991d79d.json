@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "/home/ubuntu/projects/ChatServer/bin/ChatClient"
+			"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/bin/ChatClient"
 		}
 	],
 	"backtrace" : 1,
@@ -83,27 +83,27 @@
 			[
 				{
 					"backtrace" : 3,
-					"path" : "/home/ubuntu/projects/ChatServer/include"
+					"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include"
 				},
 				{
 					"backtrace" : 4,
-					"path" : "/home/ubuntu/projects/ChatServer/include/server"
+					"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server"
 				},
 				{
 					"backtrace" : 5,
-					"path" : "/home/ubuntu/projects/ChatServer/include/server/db"
+					"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/db"
 				},
 				{
 					"backtrace" : 6,
-					"path" : "/home/ubuntu/projects/ChatServer/include/server/model"
+					"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/model"
 				},
 				{
 					"backtrace" : 7,
-					"path" : "/home/ubuntu/projects/ChatServer/include/server/redis"
+					"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/include/server/redis"
 				},
 				{
 					"backtrace" : 8,
-					"path" : "/home/ubuntu/projects/ChatServer/thirdparty"
+					"path" : "/home/ubuntu/projects/ChatServer/Cluster_ChatServer/thirdparty"
 				}
 			],
 			"language" : "CXX",

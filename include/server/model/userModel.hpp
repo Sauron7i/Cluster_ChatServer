@@ -22,5 +22,4 @@ public:
     void resetState();
 };
 
-
 #endif
